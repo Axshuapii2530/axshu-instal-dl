@@ -1,0 +1,11 @@
+{
+  "name": "instagram-api",
+  "version": "1.0.0",
+  "main": "api/instagram.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
